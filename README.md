@@ -1,4 +1,4 @@
-# Simple event database in C++
+# Event database in C++
 Implementation of a simple database in C++. 
 
 # Prerequisites
