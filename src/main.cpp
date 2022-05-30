@@ -11,7 +11,6 @@
 #include <stdexcept>
 #include <string>
 
-
 using namespace std;
 
 string ParseEvent(istream& is) {
